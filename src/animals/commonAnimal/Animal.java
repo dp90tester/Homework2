@@ -1,6 +1,6 @@
 package animals.commonAnimal;
 
-public class Animal {
+public abstract class Animal {
     String name, color;
     int age;
     double weight;
