@@ -7,7 +7,7 @@ import userInputCommands.inputCommandsDisplay.InputCommandsDisplay;
 
 import java.util.Scanner;
 
-public class UserInputAnimalCommands {
+public abstract class UserInputAnimalCommands {
     public static void userInputAnimalCommands(Scanner scanner) {
 
         InputCommandsDisplay.inputAnimalCommandsDisplay();
