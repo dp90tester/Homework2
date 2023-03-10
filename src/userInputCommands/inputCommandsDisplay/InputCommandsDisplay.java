@@ -5,7 +5,7 @@ import constants.menuInputCommands.SubMenuAnimalInputCommands;
 
 import java.util.Arrays;
 
-public class InputCommandsDisplay {
+public final class InputCommandsDisplay {
     private static void inputCommandsDisplay(String commandsMessage, Enum<?>[] enumCommands) {
         System.out.printf("\n%s", commandsMessage);
         Arrays.stream(enumCommands)

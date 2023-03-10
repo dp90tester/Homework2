@@ -3,7 +3,7 @@ package validation;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class AnimalParameterValidation {
+public final class AnimalParameterValidation {
 
     public static double validateNumberParameter(Scanner scanner, String inputMessage, int maxValue) {
         double number;

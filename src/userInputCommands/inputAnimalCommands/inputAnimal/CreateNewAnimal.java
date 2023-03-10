@@ -9,7 +9,7 @@ import validation.AnimalParameterValidation;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class CreateNewAnimal {
+public final class CreateNewAnimal {
     public static ArrayList<Animal> animalList = new ArrayList<>();
 
     public static void createNewAnimal(Scanner scanner, Animal animal) {
