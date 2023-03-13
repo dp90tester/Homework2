@@ -1,9 +1,9 @@
-package userInputCommands.inputAnimalCommands.inputAnimal;
+package user_input_commands.input_animal_commands.input_animal;
 
-import animals.animalActions.Flying;
-import animals.commonAnimal.Animal;
+import animals.animal_actions.Flying;
+import animals.common_animal.Animal;
 import constants.AnimalParameter;
-import userInputCommands.inputCommandsDisplay.InputCommandsDisplay;
+import user_input_commands.input_commands_display.InputCommandsDisplay;
 import validation.AnimalParameterValidation;
 
 import java.util.ArrayList;

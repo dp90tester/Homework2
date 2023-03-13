@@ -1,7 +1,7 @@
 package animals;
 
-import animals.animalActions.Flying;
-import animals.commonAnimal.Animal;
+import animals.animal_actions.Flying;
+import animals.common_animal.Animal;
 
 public class Duck extends Animal implements Flying {
     /**

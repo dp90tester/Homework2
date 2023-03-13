@@ -1,7 +1,7 @@
-package userInputCommands.inputCommandsDisplay;
+package user_input_commands.input_commands_display;
 
-import constants.menuInputCommands.MainMenuInputCommands;
-import constants.menuInputCommands.SubMenuAnimalInputCommands;
+import constants.menu_input_commands.MainMenuInputCommands;
+import constants.menu_input_commands.SubMenuAnimalInputCommands;
 
 import java.util.Arrays;
 

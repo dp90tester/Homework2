@@ -1,9 +1,9 @@
-package animals.commonAnimal;
+package animals.common_animal;
 
 public abstract class Animal {
-    String name, color;
-    int age;
-    double weight;
+    private String name, color;
+    private int age;
+    private double weight;
 
     public String getName() {
         return name;

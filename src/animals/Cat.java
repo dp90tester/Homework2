@@ -1,6 +1,6 @@
 package animals;
 
-import animals.commonAnimal.Animal;
+import animals.common_animal.Animal;
 
 public class Cat extends Animal {
     @Override
